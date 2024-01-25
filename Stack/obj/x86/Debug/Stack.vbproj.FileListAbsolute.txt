@@ -1,0 +1,18 @@
+C:\Users\Stacy\AppData\Local\Temporary Projects\Stack\bin\Debug\Stack.exe
+C:\Users\Stacy\AppData\Local\Temporary Projects\Stack\bin\Debug\Stack.pdb
+C:\Users\Stacy\AppData\Local\Temporary Projects\Stack\bin\Debug\Stack.xml
+C:\Users\Stacy\AppData\Local\Temporary Projects\Stack\obj\x86\Debug\Stack.Form1.resources
+C:\Users\Stacy\AppData\Local\Temporary Projects\Stack\obj\x86\Debug\Stack.Resources.resources
+C:\Users\Stacy\AppData\Local\Temporary Projects\Stack\obj\x86\Debug\Stack.vbproj.GenerateResource.Cache
+C:\Users\Stacy\AppData\Local\Temporary Projects\Stack\obj\x86\Debug\Stack.exe
+C:\Users\Stacy\AppData\Local\Temporary Projects\Stack\obj\x86\Debug\Stack.xml
+C:\Users\Stacy\AppData\Local\Temporary Projects\Stack\obj\x86\Debug\Stack.pdb
+C:\Users\Stacy\documents\visual studio 2010\Projects\Stack\Stack\obj\x86\Debug\Stack.exe
+C:\Users\Stacy\documents\visual studio 2010\Projects\Stack\Stack\obj\x86\Debug\Stack.xml
+C:\Users\Stacy\documents\visual studio 2010\Projects\Stack\Stack\obj\x86\Debug\Stack.pdb
+C:\Users\Stacy\Documents\Visual Studio 2010\Projects\Stack\Stack\bin\Debug\Stack.exe
+C:\Users\Stacy\Documents\Visual Studio 2010\Projects\Stack\Stack\bin\Debug\Stack.pdb
+C:\Users\Stacy\Documents\Visual Studio 2010\Projects\Stack\Stack\bin\Debug\Stack.xml
+C:\Users\Stacy\Documents\Visual Studio 2010\Projects\Stack\Stack\obj\x86\Debug\Stack.Form1.resources
+C:\Users\Stacy\Documents\Visual Studio 2010\Projects\Stack\Stack\obj\x86\Debug\Stack.Resources.resources
+C:\Users\Stacy\Documents\Visual Studio 2010\Projects\Stack\Stack\obj\x86\Debug\Stack.vbproj.GenerateResource.Cache
